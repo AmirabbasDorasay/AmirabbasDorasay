@@ -12,7 +12,7 @@
 
 ### 🌐 Network | Automation | CyberSEC Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=Hack+The+Planet+%F0%9F%8C%8D;Network+Automation+%F0%9F%A4%96;Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;Python+%7C+C%23+%7C+Bash+%7C+Batch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=Hack+The+Planet+%F0%9F%8C%8D;Network+Automation+%F0%9F%A4%96;Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;Python+%7C+%7C+Bash+%7C+Batch" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abasdorasay@gmail.com)
 
